@@ -1,0 +1,32 @@
+h1 {
+    background-color:aqua;
+    color: beige;
+}
+
+h3 {
+background-color: blue;
+color: beige;
+}
+
+h2{
+    background-color:blueviolet
+    color :beige;
+}
+
+
+#hero {
+    background-color:black
+    color:chartreuse
+}
+/*selector de clase*/
+
+.post {
+    background-color: aliceblue;
+    color:beige
+    font-family:'times new roman',times,serif;
+    padding spx;
+}
+
+*{
+    background-color: antiquewhite;
+}
